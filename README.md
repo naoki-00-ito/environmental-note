@@ -84,3 +84,10 @@ https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-sty
 
 - TypeScript Toolbox  
 https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter
+
+---
+
+## Git
+
+- git-commit-plugin
+https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin
