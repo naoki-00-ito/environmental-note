@@ -96,3 +96,5 @@ Reminder notes for VSCode extensions and Developer Tools frequently used in deve
 
 - HTTP Headers  
   https://chromewebstore.google.com/detail/http-headers/fabjnpecogealbfoebkcjfbmdhnnfhbj?hl=ja&pli=1
+- EditThisCookie  
+  https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol?hl=ja
