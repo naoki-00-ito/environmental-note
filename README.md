@@ -91,3 +91,8 @@ Reminder notes for VSCode extensions and Developer Tools frequently used in deve
 
 - git-commit-plugin  
   https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin
+
+## debug
+
+- HTTP Headers  
+  https://chromewebstore.google.com/detail/http-headers/fabjnpecogealbfoebkcjfbmdhnnfhbj?hl=ja&pli=1
